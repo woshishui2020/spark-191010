@@ -1,0 +1,3 @@
+hello hive
+hello spark
+hello hadoop
